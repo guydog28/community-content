@@ -5,6 +5,10 @@ All notable changes to the community scheme catalog are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-rc.0]
+
+Community marking schemes and example content for TLP, CVSS v3.1, CVSS v4.0, and the fictional Cedar Valley examples. Install the compiled catalog with `npm install @ezclassify/schemes@1.0.0-rc.0`.
+
 ## [1.0.0]
 
 The first public release of the community scheme catalog, published as
